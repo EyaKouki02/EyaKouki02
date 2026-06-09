@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## About me
 
 ```yaml
 name: Eya Kouki
