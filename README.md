@@ -1,6 +1,6 @@
- <!-- 🌸 SOFT PASTEL HERO HEADER -->
+<!-- 🌸 SOFT PASTEL HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,4,12,18,20,25&text=Eya%20Kouki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=18,19,20,21,22,23,24&text=Eya%20Kouki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- ✨ TAGLINE -->
@@ -69,6 +69,7 @@ interests:
   <img src="https://img.shields.io/badge/MySQL-40E0D0?style=for-the-badge"/>
 </p>
 
+
 ---
 
 ##  Featured Projects
@@ -130,6 +131,16 @@ Restaurant management system (PHP & MySQL)
 - Online orders & reservations
 - Admin dashboard for full control
 
+---
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eyakouki&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=00ffff"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EyaKouki02&theme=radical&hide_border=true&ring=ff69b4&fire=8a2be2&currStreakLabel=00ffff"/>
+</p>
 ---
 
 ## 📫 Contact
