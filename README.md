@@ -1,6 +1,6 @@
 <!-- 🌸 SOFT PASTEL HERO HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,23&text=Eya%20Kouki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=2,3,4,5,12,13,14,20,21,22,23&text=Eya%20Kouki&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <!-- ✨ TAGLINE -->
